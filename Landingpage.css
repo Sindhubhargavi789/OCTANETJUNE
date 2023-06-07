@@ -1,0 +1,49 @@
+header{
+    width:100%;
+    height:100vh;
+    background: linear-gradient(rgba(0,0,0,1.5),rgba(205, 67, 202, 0.4)),url("./bg..jpg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+img{
+    border-radius: 50%;
+    width:150px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.first a {
+    text-decoration: none;
+    padding-left: 30px;
+   padding-right: 30px;
+   background: linear-gradient(rgb(228, 136, 199),rgb(228, 85, 114),rgb(249, 161, 173));
+   border-radius: 30px;
+   margin-left: 20px;
+   font-size: 1.5rem;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   color: black;
+   
+
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height:100px;
+    justify-content: space-around;
+    align-items: center;
+}
+.second a {
+    text-decoration: none;
+    color: white;
+font-size: 1.8rem;
+
+}
+main{
+    margin-left:350px;
+   margin-top:250px ;
+   color:white;
+   font-size: 1.5rem;
+   font-family: serif;
+}
+
