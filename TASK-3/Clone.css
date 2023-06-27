@@ -1,0 +1,123 @@
+.nav-bar{
+    font-family: var(--font-stack-text);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-shadow: 5px 5px 5px rgb(192, 192, 192);
+    margin-top: 10px;
+   
+   
+}
+.nav-bar h6{
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.input-field{
+    border-radius: 40px;
+    width:600px;
+}
+.icon{
+    padding-top: 20px;
+    
+}
+.btn{
+    margin:8px;
+    width:70px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: bolder;
+    font-size: small;
+    
+}
+.btn:hover{
+    background-color: black;
+    color:aliceblue
+}
+.btn1{
+    margin:8px;
+    width:70px;
+    background-color:black;
+    color: white;
+    font-weight: bolder;
+    font-size: small;
+    
+}
+.btn1:hover{
+    background-color: white;
+    color:black;
+}
+.btn2{
+    width:40px;
+    margin:4px;
+
+}
+.log{
+  position: absolute;
+  top:25%;
+  width:350px;
+  box-shadow: 5px 5px 5px rgb(166, 198, 225);
+  margin-left: 80px;
+  padding: 20px;
+  align-content: center;
+
+}
+.log h1{
+    font-size: 2rem;
+}
+.log p{
+    font-style: sans-serif;
+    font-weight: 300;
+}
+.imgs{
+ 
+   margin-left: 100px;
+   margin-top: 5px;
+}
+.python{
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: aliceblue;
+font-weight: bolder;
+}
+.teach{
+padding:7px;
+border: 0;
+background-color: black;
+color: white;
+font-weight: bold;
+}
+.trans{
+    padding: 7px;
+    border: 0;
+    background-color: black;
+    color:white;
+    font-weight:bold ;
+}
+.para{
+    padding: 20px;
+}
+.main1{
+margin-left: 120px;
+margin-bottom: 19px;
+}
+.main1 p{
+  font-weight: 500;
+}
+.span{
+    padding-left: 30px;
+}
+.span a :hover{
+    color:rgb(86, 0, 66);
+    margin-bottom: 0;
+}
+.span a{
+    text-decoration: none;
+    color:black;
+    opacity: 0.7;
+}
+.container{
+    margin-top: 0%;
+}
